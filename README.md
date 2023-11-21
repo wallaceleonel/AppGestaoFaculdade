@@ -112,6 +112,6 @@ Os protótipos da interface do sistema foram desenvolvidos de acordo com os diag
 - Cadastro de Fornecedores
 - Cadastro de Alunos
 
-Os protótipos podem ser encontrados na pasta [prototipos/](prototipos/).
+Os protótipos podem ser encontrados no [Figma]([prototipos/](https://www.figma.com/file/18FLr6lHzROKFNJU2oelgH/Untitled?type=design&node-id=0-1&mode=design&t=bNgGQB5BEf6gXuRV-0)https://www.figma.com/file/18FLr6lHzROKFNJU2oelgH/Untitled?type=design&node-id=0-1&mode=design&t=bNgGQB5BEf6gXuRV-0).
 
 ---
